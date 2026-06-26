@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CleanArquiteture.Application/CleanArquiteture.Application.csproj" />
+  <Project Path="CleanArquiteture.Domain/CleanArquiteture.Domain.csproj" />
+  <Project Path="CleanArquiteture.Infra.Data/CleanArquiteture.Infra.Data.csproj" />
+  <Project Path="CleanArquiteture.Infra.IoC/CleanArquiteture.Infra.IoC.csproj" />
+  <Project Path="CleanArquiteture.WebUI/CleanArquiteture.WebUI.csproj" />
+</Solution>
